@@ -1,1 +1,3 @@
-# FishMap Chatbot
+# FishMap AI Chat bot
+
+Designed and developed an AI-powered mobile application tailored for bass fishermen. Implemented real-time fish location tracking using advanced algorithms to notify users when entering threatened areas. Integrated a community engagement feature, enabling users to share fishing experiences and interact through a dedicated page. Developed an AI chatbot to enhance user interaction by providing navigation assistance and personalized recommendations. Conducted comprehensive testing, including unit, integration, and system testing, to ensure functionality and reliability. Published the application for user feedback and acceptance testing.
