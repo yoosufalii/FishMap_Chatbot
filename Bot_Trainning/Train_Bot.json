@@ -1,0 +1,80 @@
+{
+    "intents": [
+        {
+            "tag": "Greeting",
+            "patterns": [
+                "hi",
+                "hello",
+                "how are you",
+                "is anyone there",
+                "hey",
+                "good day"
+            ],
+            "responses": [
+                "Hello! How can I assist you with fishing in Sri Lanka today?",
+                "Hi there! What fishing information can I provide you with?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "FishingSeason",
+            "patterns": [
+                "What is the best fishing season in Sri Lanka?",
+                "When is the peak fishing season near Sri Lanka?",
+                "Fishing seasons in Sri Lanka"
+            ],
+            "responses": [
+                "The best fishing season in Sri Lanka is typically from April to September, with peak months being June through August. During this period, you can expect abundant catches and favorable weather conditions."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "PopularFishingSpots",
+            "patterns": [
+                "What are the popular fishing spots in Sri Lanka?",
+                "Top fishing locations near Sri Lanka",
+                "Best places to fish in Sri Lanka"
+            ],
+            "responses": [
+                "Popular fishing spots in Sri Lanka include:\n- Negombo Lagoon\n- Trincomalee\n- Galle\n- Mirissa\n- Kalpitiya\nThese areas are known for their rich marine biodiversity and great fishing opportunities."
+            ],
+            "context_set": ""
+        },
+
+
+
+        {
+            "tag": "SafetyTips",
+            "patterns": [
+                "What are the safety tips for fishing in Sri Lanka?",
+                "Fishing safety advice near Sri Lanka",
+                "How to stay safe while fishing in Sri Lankan waters"
+            ],
+            "responses": [
+                "Safety tips for fishing in Sri Lanka include:\n- Always check weather conditions before heading out\n- Ensure your boat and equipment are in good condition\n- Carry safety gear such as life jackets and first aid kits\n- Follow local regulations and guidelines for safe fishing practices\n- Be aware of potential marine hazards and wildlife"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Goodbye",
+            "patterns": [
+                "goodbye",
+                "see you later",
+                "bye",
+                "thank you",
+                "thanks"
+            ],
+            "responses": [
+                "Goodbye! Enjoy your fishing adventures in Sri Lanka!",
+                "Thank you for reaching out. If you have more fishing questions, feel free to ask. Goodbye!"
+            ],
+            "context_set": ""
+        }
+
+
+
+
+
+
+    ]
+}
